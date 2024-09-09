@@ -1,4 +1,4 @@
-This project was developed using Pychar(Virtual environment), tested using Postman.
+This project was developed using Pycharm(Virtual environment), tested using Postman.
 
 # Method 1 - How to use the project.
 1. Create a virtual environment, load the "login_Auth.py" file.
